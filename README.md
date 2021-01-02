@@ -1,5 +1,5 @@
 # CMDLight
-you can change light with cmd
+you can change screen light with cmd
 
 Usage      : Light.bat %number%
 
